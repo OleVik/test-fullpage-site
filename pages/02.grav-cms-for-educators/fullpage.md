@@ -2,12 +2,15 @@
 title: 'Grav CMS for Educators'
 horizontal: true
 styles:
-  -
-      background: '#a1ad36'
-      font-family: 'Helvetica Neue'
-  -
-      background: '#75b6d3'
-      font-family: 'Helvetica Neue'
+  - background: '#a1ad36'
+    font-family: "'Helvetica Neue', Arial, Helvetica, sans-serif !default"
+    display: block
+    width: "100%"
+    width: "100vw"
+    height: "100%"
+    height: "100vh"
+  - background: '#75b6d3'
+    font-family: 'Helvetica Neue'
 fullpage:
     options:
         navigation: true
